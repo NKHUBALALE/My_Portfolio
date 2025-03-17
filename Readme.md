@@ -28,8 +28,7 @@ Here are some of my **pinned repositories** showcasing my work in AI, backend de
 🔹 **[ALX Shell Scripting](https://github.com/NKHUBALALE/alx_be_shell)** - Shell scripting projects for automation.  
 🔹 **[Django Fitness API](https://github.com/NKHUBALALE/fitness_tracker_api)** - Backend fitness tracker API built with Django.  
 🔹 **[Regression Sprint (Team EG1)](https://github.com/justin9503/RegressionSprint_2401FTDSTeam_EG1)** - Collaborative regression analysis project.  
-🔹 **[Data Science Project (Team JB3)](https://github.com/SIPHOSETHU2303/Team--JB3)** - Team-based data science project.  
-
+🔹 **[Data Science Project (Team JB3)](https://github.com/SIPHOSETHU2303/Team--JB3)** -  Developed the machine learning model used in the News Article Classifier app, leveraging NLP techniques for text classification.
 ---
 
 ## 🔧 Tech Stack  
