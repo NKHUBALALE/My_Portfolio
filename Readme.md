@@ -8,14 +8,16 @@ I specialize in **Machine Learning, AI, and Backend Development**, working with 
 
 ## 🔥 Featured Projects  
 
-### 🏗️ **[News Article Classifier](https://nkhubalale-streamlit-base-app-oroz4n.streamlit.app/)**
-A machine learning-powered web app that classifies news articles into different categories using NLP.  
-
 ### 🛰️ **[Satellite Image Segmentation](https://nkhubalale-streamlit-image-segmentation-base-app-4x6icf.streamlit.app/)**
 Built a deep learning-based web app for **building detection from satellite images**, optimized for deployment at zero cost using Streamlit.  
 
 ### 🎭 **[Anime Recommendation System](https://nkhubalale-recommendation-system-app-iz0vxz.streamlit.app/)**
 Developed an **NLP-powered recommendation system** that suggests anime based on user preferences.  
+
+### 🏗️ **[News Article Classifier](https://nkhubalale-streamlit-base-app-oroz4n.streamlit.app/)**
+A machine learning-powered web app that classifies news articles into different categories using NLP.  
+
+
 
 ---
 
