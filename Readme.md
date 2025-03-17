@@ -24,8 +24,8 @@ A machine learning-powered web app that classifies news articles into different 
 ## 🔧 Tech Stack  
 
 - **Machine Learning & AI**: TensorFlow, Keras, Scikit-learn, OpenCV, NLP  
-- **Backend Development**: Django, Django Rest Framework, FastAPI  
-- **Cloud & Deployment**: AWS (S3, Lambda), Docker, Streamlit, Google Cloud  
+- **Backend Development**: Django, Django Rest Framework  
+- **Cloud & Deployment**: AWS (S3, Lambda), Streamlit, Google Cloud  
 - **Data Analysis & Visualization**: Power BI, Seaborn, Matplotlib, Pandas  
 - **Version Control & Scripting**: Git, GitHub, Bash, Shell Scripting  
 - **Development Tools & AI Assistants**: VS Code, Jupyter Notebook, ChatGPT, DeepSeek, Notebook LMI  
