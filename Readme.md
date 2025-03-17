@@ -33,7 +33,7 @@ Developed an **NLP-powered recommendation system** that suggests anime based on 
 ## 🌍 Connect with Me  
 
 📌 **GitHub**: [@Nkhubalale](https://github.com/Nkhubalale)  
-📌 **LinkedIn**: [Nkhubalale Nkadimeng](https://linkedin.com/in/Nkhubalale)  
+📌 **LinkedIn**: [Nkhubalale Nkadimeng](https://www.linkedin.com/in/nkhubalale-emmanuel-nkadimeng/)  
 📌 **Twitter**: [@NkhubalaleN](https://x.com/NkhubalaleN)  
 
 ---
