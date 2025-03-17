@@ -11,13 +11,24 @@ I specialize in **Machine Learning, AI, and Backend Development**, working with 
 ### 🛰️ **[Satellite Image Segmentation](https://nkhubalale-streamlit-image-segmentation-base-app-4x6icf.streamlit.app/)**
 Built a deep learning-based web app for **building detection from satellite images**, optimized for deployment at zero cost using Streamlit.  
 
-### 🎭 **[Anime Recommendation System](https://nkhubalale-recommendation-system-app-iz0vxz.streamlit.app/)**
+### 🎭 **[Anime Recommendation System](https://nkhubalale-streamlit-image-segmentation-base-app-4x6icf.streamlit.app/)**
 Developed an **NLP-powered recommendation system** that suggests anime based on user preferences.  
 
 ### 🏗️ **[News Article Classifier](https://nkhubalale-streamlit-base-app-oroz4n.streamlit.app/)**
 A machine learning-powered web app that classifies news articles into different categories using NLP.  
 
+---
 
+## 📌 GitHub Repositories  
+
+Here are some of my **pinned repositories** showcasing my work in AI, backend development, and automation:  
+
+🔹 **[Streamlit Image Segmentation](https://github.com/NKHUBALALE/streamlit_image_segmentation)** - Deep learning-based image segmentation using Streamlit.  
+🔹 **[Anime Recommendation System](https://github.com/NKHUBALALE/Recommendation_system)** - NLP-based anime recommendation system.  
+🔹 **[ALX Shell Scripting](https://github.com/NKHUBALALE/alx_be_shell)** - Shell scripting projects for automation.  
+🔹 **[Django Fitness API](https://github.com/NKHUBALALE/fitness_tracker_api)** - Backend fitness tracker API built with Django.  
+🔹 **[Regression Sprint (Team EG1)](https://github.com/justin9503/RegressionSprint_2401FTDSTeam_EG1)** - Collaborative regression analysis project.  
+🔹 **[Data Science Project (Team JB3)](https://github.com/SIPHOSETHU2303/Team--JB3)** - Team-based data science project.  
 
 ---
 
