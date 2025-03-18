@@ -29,6 +29,19 @@ Here are some of my **pinned repositories** showcasing my work in AI, backend de
 🔹 **[Django Fitness API](https://github.com/NKHUBALALE/fitness_tracker_api)** - Backend fitness tracker API built with Django.  
 🔹 **[Regression Sprint (Team EG1)](https://github.com/justin9503/RegressionSprint_2401FTDSTeam_EG1)** - Collaborative regression analysis project.  
 🔹 **[Data Science Project (Team JB3)](https://github.com/SIPHOSETHU2303/Team--JB3)** -  Developed the machine learning model used in the News Article Classifier app, leveraging NLP techniques for text classification.
+
+---
+
+## 🎓 Certifications  
+
+Here are some of my certifications that demonstrate my expertise in AI, backend development, and software engineering:  
+
+🔹 **[Professional Foundations](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXIxRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6e8d86ab522f97ef84ac015cd99470621df3b403/52-professional-foundations-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa (August 13, 2024)**  
+
+🔹 **[Back-End Web Development](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlBqSUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--01ffbdc6a7ff663678179af4aed3cb69098cf0f1/70-back-end-web-development-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa (October 30, 2024)**  
+
+🔹 **[Gig-at-a-Startup](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVB2SGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--387a15c21f1576f8cf6f9e0162869295aafae72d/110-gig-at-a-startup-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa (November 20, 2024)**  
+
 ---
 
 ## 🔧 Tech Stack  
