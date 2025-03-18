@@ -47,8 +47,8 @@ Here are some of my certifications that demonstrate my expertise in AI, backend 
 🔹 **[AWS Cloud Practitioner](https://example.com/link-to-proof-if-any)** *(In Progress - Expected April 7, 2025)*  
 *Currently mastering AWS cloud infrastructure, services, and best practices.*  
 
-🔹 **[Certificate of Attendance – Data Science](https://drive.google.com/...) - ExploreAI** *(In Progress - Pending SeTA Exam)*  
-*Advanced data science training with a focus on NLP and model deployment.*  
+ 🔹 **[Certificate of Attendance – Data Science](https://drive.google.com/file/d/1CcNEiK0H_1ckruw71MrqZ6pKentXPlOD/view?usp=sharing) - ExploreAI** *(Expected Completion: April 7, 2025)*  
+*Advanced data science training with hands-on projects in **Python**, **SQL**, **Power BI**, and **machine learning** (classification, regression). Building expertise in data pipelines and model deployment.** 
 
 🔹 **[Professional Foundations](https://savanna.alxafrica.com/...) - ALX Africa** *(August 13, 2024)*  
 *Workplace readiness and collaboration skills.*  
