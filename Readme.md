@@ -36,8 +36,6 @@ Here are some of my **pinned repositories** showcasing my work in AI, backend de
 
 Here are some of my certifications that demonstrate my expertise in AI, backend development, and software engineering:  
 
-## 🎓 Certifications  
-
 🔹 **[AWS Cloud Practitioner]** *(In Progress - Expected April 7, 2025)*  
 *Currently mastering AWS cloud infrastructure, services, and best practices.*
 
