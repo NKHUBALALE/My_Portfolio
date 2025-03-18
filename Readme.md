@@ -36,17 +36,28 @@ Here are some of my **pinned repositories** showcasing my work in AI, backend de
 
 Here are some of my certifications that demonstrate my expertise in AI, backend development, and software engineering:  
 
-🔹 **[ALX AI Starter Kit](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEhhSXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e40db90c7681428ea2be4edad2c4e75a7833b45/113-alx-ai-starter-kit-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa (March 12, 2025)**  
+## 🎓 Certifications  
 
-🔹 **[Professional Foundations](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXIxRWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6e8d86ab522f97ef84ac015cd99470621df3b403/52-professional-foundations-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa (August 13, 2024)**  
+🔹 **[ALX AI Starter Kit](https://savanna.alxafrica.com/...) - ALX Africa** *(March 12, 2024)*  
+*Core certification in AI/ML fundamentals.*  
 
-🔹 **[Back-End Web Development](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlBqSUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--01ffbdc6a7ff663678179af4aed3cb69098cf0f1/70-back-end-web-development-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa (October 30, 2024)**  
+🔹 **[Back-End Web Development](https://savanna.alxafrica.com/...) - ALX Africa** *(October 30, 2024)*  
+*Validates Django/backend engineering expertise.*  
 
-🔹 **[Gig-at-a-Startup](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVB2SGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--387a15c21f1576f8cf6f9e0162869295aafae72d/110-gig-at-a-startup-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa (November 20, 2024)**  
+🔹 **[AWS Cloud Practitioner](https://example.com/link-to-proof-if-any)** *(In Progress - Expected April 7, 2025)*  
+*Currently mastering AWS cloud infrastructure, services, and best practices.*  
 
-🔹 **[Certificate of Attendance – Data Science](https://drive.google.com/file/d/1CcNEiK0H_1ckruw71MrqZ6pKentXPlOD/view?usp=sharing) - ExploreAI (Pending SeTA Exam)**  
+🔹 **[Certificate of Attendance – Data Science](https://drive.google.com/...) - ExploreAI** *(In Progress - Pending SeTA Exam)*  
+*Advanced data science training with a focus on NLP and model deployment.*  
 
-🔹 **[Ready Tensor CV Projects Expo 2024](https://drive.google.com/file/d/1dXTEdw6fgi1FhRxo-xHmNj65n6oH6qzw/view?usp=sharing) - Demonstration of Image Segmentation Web App (January 2024)**  
+🔹 **[Professional Foundations](https://savanna.alxafrica.com/...) - ALX Africa** *(August 13, 2024)*  
+*Workplace readiness and collaboration skills.*  
+
+🔹 **[Gig-at-a-Startup](https://savanna.alxafrica.com/...) - ALX Africa** *(November 20, 2024)*  
+*Hands-on experience in startup environments.*  
+
+🔹 **[Ready Tensor CV Projects Expo 2024](https://drive.google.com/...)** *(January 21, 2024)*  
+*Showcased the Satellite Image Segmentation project in a deep learning competition.*  
 
 
 ---
