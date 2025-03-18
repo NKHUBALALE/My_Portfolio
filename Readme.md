@@ -38,26 +38,29 @@ Here are some of my certifications that demonstrate my expertise in AI, backend 
 
 ## 🎓 Certifications  
 
-🔹 **[ALX AI Starter Kit](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEhhSXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e40db90c7681428ea2be4edad2c4e75a7833b45/113-alx-ai-starter-kit-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa** *(March 12, 2024)*  
+🔹 **[AWS Cloud Practitioner]** *(In Progress - Expected April 7, 2025)*  
+*Currently mastering AWS cloud infrastructure, services, and best practices.*
+
+🔹 **[ALX AI Starter Kit](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEhhSXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e40db90c7681428ea2be4edad2c4e75a7833b45/113-alx-ai-starter-kit-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa** *(March 12, 2025)*  
 *Core certification in AI/ML fundamentals.*  
 
-🔹 **[Ready Tensor CV Projects Expo 2024](https://drive.google.com/file/d/1eqLcvJstRs7-yuxUhtnzrFvI_m8Jy4d_/view)** *(January 21, 2024)*  
+🔹 **[Ready Tensor CV Projects Expo 2024](https://drive.google.com/file/d/1eqLcvJstRs7-yuxUhtnzrFvI_m8Jy4d_/view)** *(January 21, 2025)*  
 *Showcased the Satellite Image Segmentation project in a deep learning competition.* 
 
 🔹 **[Back-End Web Development](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlBqSUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--01ffbdc6a7ff663678179af4aed3cb69098cf0f1/70-back-end-web-development-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa** *(October 30, 2024)*  
 *Validates Django/backend engineering expertise.*  
-
-🔹 **[AWS Cloud Practitioner]** *(In Progress - Expected April 7, 2025)*  
-*Currently mastering AWS cloud infrastructure, services, and best practices.*  
+  
 
  🔹 **[Certificate of Attendance – Data Science](https://drive.google.com/file/d/1CcNEiK0H_1ckruw71MrqZ6pKentXPlOD/view?usp=sharing) - ExploreAI** *(Expected SETA/QCTO Exam: 2025)*  
 *Advanced data science training with hands-on projects in **Python**, **SQL**, **Power BI**, **machine learning** (supervised and unsupervised), and **deep learning**. Building expertise in data pipelines and model deployment for scalable AI solutions.* 
 
+🔹 **[Gig-at-a-Startup](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVB2SGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--387a15c21f1576f8cf6f9e0162869295aafae72d/110-gig-at-a-startup-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa** *(November 20, 2024)*  
+*Hands-on experience in startup environments.* 
+
 🔹 **[Professional Foundations](https://alx-intranet-active-storage-production.s3.amazonaws.com/i63yrg83jwn4unsop4qhocgvoxgk?response-content-disposition=inline%3B%20filename%3D%2252-professional-foundations-certificate-nkhubalale-emmanuel-nkadimeng.png%22%3B%20filename%2A%3DUTF-8%27%2752-professional-foundations-certificate-nkhubalale-emmanuel-nkadimeng.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250318%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250318T115802Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=22b21a88b5ebff88bb0f5669d127f04c0d38cc765a4135bf33b9d5f6f42ec87f) - ALX Africa** *(August 13, 2024)*  
 *Workplace readiness and collaboration skills.*  
 
-🔹 **[Gig-at-a-Startup](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVB2SGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--387a15c21f1576f8cf6f9e0162869295aafae72d/110-gig-at-a-startup-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa** *(November 20, 2024)*  
-*Hands-on experience in startup environments.*  
+ 
 
  
 
