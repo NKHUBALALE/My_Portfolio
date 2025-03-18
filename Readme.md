@@ -51,7 +51,7 @@ Here are some of my certifications that demonstrate my expertise in AI, backend 
 *Currently mastering AWS cloud infrastructure, services, and best practices.*  
 
  🔹 **[Certificate of Attendance – Data Science](https://drive.google.com/file/d/1CcNEiK0H_1ckruw71MrqZ6pKentXPlOD/view?usp=sharing) - ExploreAI** *(Expected Completion: April 7, 2025)*  
-*Advanced data science training with hands-on projects in **Python**, **SQL**, **Power BI**, and **machine learning** (classification, regression). Building expertise in data pipelines and model deployment.** 
+*Advanced data science training with hands-on projects in **Python**, **SQL**, **Power BI**, **machine learning** (supervised and unsupervised), and **deep learning**. Building expertise in data pipelines and model deployment for scalable AI solutions.* 
 
 🔹 **[Professional Foundations](https://alx-intranet-active-storage-production.s3.amazonaws.com/i63yrg83jwn4unsop4qhocgvoxgk?response-content-disposition=inline%3B%20filename%3D%2252-professional-foundations-certificate-nkhubalale-emmanuel-nkadimeng.png%22%3B%20filename%2A%3DUTF-8%27%2752-professional-foundations-certificate-nkhubalale-emmanuel-nkadimeng.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20250318%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250318T115802Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=22b21a88b5ebff88bb0f5669d127f04c0d38cc765a4135bf33b9d5f6f42ec87f) - ALX Africa** *(August 13, 2024)*  
 *Workplace readiness and collaboration skills.*  
