@@ -41,6 +41,9 @@ Here are some of my certifications that demonstrate my expertise in AI, backend 
 🔹 **[ALX AI Starter Kit](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEhhSXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e40db90c7681428ea2be4edad2c4e75a7833b45/113-alx-ai-starter-kit-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa** *(March 12, 2024)*  
 *Core certification in AI/ML fundamentals.*  
 
+🔹 **[Ready Tensor CV Projects Expo 2024](https://drive.google.com/file/d/1eqLcvJstRs7-yuxUhtnzrFvI_m8Jy4d_/view)** *(January 21, 2024)*  
+*Showcased the Satellite Image Segmentation project in a deep learning competition.* 
+
 🔹 **[Back-End Web Development](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlBqSUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--01ffbdc6a7ff663678179af4aed3cb69098cf0f1/70-back-end-web-development-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa** *(October 30, 2024)*  
 *Validates Django/backend engineering expertise.*  
 
@@ -56,8 +59,7 @@ Here are some of my certifications that demonstrate my expertise in AI, backend 
 🔹 **[Gig-at-a-Startup](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVB2SGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--387a15c21f1576f8cf6f9e0162869295aafae72d/110-gig-at-a-startup-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa** *(November 20, 2024)*  
 *Hands-on experience in startup environments.*  
 
-🔹 **[Ready Tensor CV Projects Expo 2024](https://drive.google.com/file/d/1eqLcvJstRs7-yuxUhtnzrFvI_m8Jy4d_/view)** *(January 21, 2024)*  
-*Showcased the Satellite Image Segmentation project in a deep learning competition.*  
+ 
 
 
 ---
