@@ -56,7 +56,7 @@ Here are some of my certifications that demonstrate my expertise in AI, backend 
 🔹 **[Gig-at-a-Startup](https://savanna.alxafrica.com/...) - ALX Africa** *(November 20, 2024)*  
 *Hands-on experience in startup environments.*  
 
-🔹 **[Ready Tensor CV Projects Expo 2024](https://drive.google.com/...)** *(January 21, 2024)*  
+🔹 **[Ready Tensor CV Projects Expo 2024](https://drive.google.com/file/d/1eqLcvJstRs7-yuxUhtnzrFvI_m8Jy4d_/view)** *(January 21, 2024)*  
 *Showcased the Satellite Image Segmentation project in a deep learning competition.*  
 
 
