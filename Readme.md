@@ -42,6 +42,10 @@ Here are some of my certifications that demonstrate my expertise in AI, backend 
 🔹 **[ALX AI Starter Kit](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEhhSXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e40db90c7681428ea2be4edad2c4e75a7833b45/113-alx-ai-starter-kit-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa** *(March 12, 2025)*  
 *Core certification in AI/ML fundamentals.*  
 
+🔹 **[Discovering Generative AI](https://www.udacity.com/certificate/e/ee3c4856-cb7e-11ef-b922-5be066447432) - Udacity** *(January 28, 2025)*  
+*Fundamental certification in Generative AI, covering core concepts, models, and applications in AI-driven content generation.*
+
+
 🔹 **[Ready Tensor CV Projects Expo 2024](https://drive.google.com/file/d/1eqLcvJstRs7-yuxUhtnzrFvI_m8Jy4d_/view)** *(January 21, 2025)*  
 *Showcased the Satellite Image Segmentation project in a deep learning competition.* 
 
