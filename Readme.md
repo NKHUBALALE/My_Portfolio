@@ -36,8 +36,9 @@ Here are some of my **pinned repositories** showcasing my work in AI, backend de
 
 Here are some of my certifications that demonstrate my expertise in AI, backend development, and software engineering:  
 
-🔹 **[AWS Cloud Practitioner]** *(In Progress - Expected April 7, 2025)*  
-*Currently mastering AWS cloud infrastructure, services, and best practices.*
+🔹 **[AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/052251b41dc540c383defa1c6673886e) - Amazon Web Services** *(April 19, 2025)*  
+*Validated foundational knowledge of AWS Cloud services, security, and architecture.*  
+**Validation ID:** `052251b41dc540c383defa1c6673886e`  
 
 🔹 **[ALX AI Starter Kit](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEhhSXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e40db90c7681428ea2be4edad2c4e75a7833b45/113-alx-ai-starter-kit-certificate-nkhubalale-emmanuel-nkadimeng.png) - ALX Africa** *(March 12, 2025)*  
 *Core certification in AI/ML fundamentals.*  
