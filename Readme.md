@@ -83,9 +83,9 @@ Here are some of my certifications that demonstrate my expertise in AI, backend 
 
 ## 🌍 Connect with Me  
 
-    **GitHub**: [@Nkhubalale](https://github.com/Nkhubalale)  
-    **LinkedIn**: [Nkhubalale Nkadimeng](https://www.linkedin.com/in/nkhubalale-emmanuel-nkadimeng/)  
-    **Twitter**: [@NkhubalaleN](https://x.com/NkhubalaleN)  
+- **GitHub**: [@Nkhubalale](https://github.com/Nkhubalale)  
+- **LinkedIn**: [Nkhubalale Nkadimeng](https://www.linkedin.com/in/nkhubalale-emmanuel-nkadimeng/)  
+- **Twitter**: [@NkhubalaleN](https://x.com/NkhubalaleN)  
 
 ---
 
