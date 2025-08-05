@@ -6,7 +6,7 @@ I specialize in **Machine Learning, AI, and Backend Development**, working with 
 
 ---
 
-## 🔥 Featured Projects  
+##  Featured Projects  
 
 ###  **[Satellite Image Segmentation](https://nkhubalale-streamlit-image-segmentation-base-app-4x6icf.streamlit.app/)**
 Built a deep learning-based web app for **building detection from satellite images**, optimized for deployment at zero cost using Streamlit.  
@@ -19,7 +19,7 @@ A machine learning-powered web app that classifies news articles into different 
 
 ---
 
-## 📌 GitHub Repositories  
+## GitHub Repositories  
 
 Here are some of my **pinned repositories** showcasing my work in AI, backend development, and automation:  
 
@@ -32,7 +32,7 @@ Here are some of my **pinned repositories** showcasing my work in AI, backend de
 
 ---
 
-## 🎓 Certifications  
+##  Certifications  
 
 Here are some of my certifications that demonstrate my expertise in AI, backend development, and software engineering:  
 
@@ -70,7 +70,7 @@ Here are some of my certifications that demonstrate my expertise in AI, backend 
 
 ---
 
-## 🔧 Tech Stack  
+##  Tech Stack  
 
 - **Machine Learning & AI**: TensorFlow, Keras, Scikit-learn, OpenCV, NLP  
 - **Backend Development**: Django, Django Rest Framework  
@@ -81,7 +81,7 @@ Here are some of my certifications that demonstrate my expertise in AI, backend 
 
 ---
 
-## 🌍 Connect with Me  
+##  Connect with Me  
 
 - **GitHub**: [@Nkhubalale](https://github.com/Nkhubalale)  
 - **LinkedIn**: [Nkhubalale Nkadimeng](https://www.linkedin.com/in/nkhubalale-emmanuel-nkadimeng/)  
